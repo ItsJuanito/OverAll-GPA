@@ -10,4 +10,4 @@ VERSION or DATE: April 17, 2019
 HOW TO START THIS PROJECT: TranscriptProject.java includes source code and can be executed on a jvm.
 AUTHORS: Juan Zaragoza
 USER INSTRUCTIONS: The user must enter their name and must answer the yes or no
-question provided. Then procees to answerthe prompts displayed.
+question provided. Then proceed to answer the prompts displayed to the user.

@@ -24,6 +24,7 @@ public class TranscriptProject
            True();
         } else if (ch == 'N') {
            System.out.println("Oops there was a problem \\__o.o__/");
+            System.exit(0);
         }
         System.out.println("Congratulations "+ name +" you have completed your >>Academic Transcript<<!!");
     }
